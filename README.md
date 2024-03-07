@@ -1,1 +1,1 @@
-# Exercicios---Messias
+Pasta destinada as atividades práticas do professor Manoel Messias# Exercicios---Messias
